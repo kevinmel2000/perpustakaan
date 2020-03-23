@@ -12,4 +12,4 @@ Perpustakaan App Menggunakan CI dan SbAdmin
 * SbAdmin2
 * Dll
 ## Screenshot
-[Dashboard](https://i.ibb.co/N1KCNyn/dashboard.png)
+![Dashboard](https://i.ibb.co/N1KCNyn/dashboard.png)
